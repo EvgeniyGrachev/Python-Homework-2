@@ -1,0 +1,28 @@
+object_name,path,object_size,object_type,parant_directory
+File_manager,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,31383,directory,Python ДЗ
+data.csv,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,32,file,Homework_8
+data.json,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,150,file,Homework_8
+data.txt,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,129,file,Homework_8
+data1.json,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,22,file,Homework_8
+data2.json,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,109,file,Homework_8
+main.py,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,1868,file,Homework_8
+result.csv,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,0,file,Homework_8
+result.json,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,0,file,Homework_8
+result.pickle,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,0,file,Homework_8
+result1.csv,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,766,file,Homework_8
+result1.json,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,1808,file,Homework_8
+result1.pickle,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,810,file,Homework_8
+task_homework.py,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8,4782,file,Homework_8
+__pycache__,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager,18815,directory,Homework_8
+create_file_json.py,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager,4562,file,File_manager
+create_file_txt.py,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager,549,file,File_manager
+csv_to_json.py,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager,1675,file,File_manager
+directory_reference.py,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager,3424,file,File_manager
+json_to_csv.py,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager,1447,file,File_manager
+txt_to_json.py,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager,911,file,File_manager
+create_file_json.cpython-311.pyc,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager\__pycache__,4418,file,__pycache__
+create_file_txt.cpython-311.pyc,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager\__pycache__,1562,file,__pycache__
+csv_to_json.cpython-311.pyc,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager\__pycache__,3102,file,__pycache__
+directory_reference.cpython-311.pyc,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager\__pycache__,5524,file,__pycache__
+json_to_csv.cpython-311.pyc,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager\__pycache__,2514,file,__pycache__
+txt_to_json.cpython-311.pyc,F:\Женя\+Учёба Geekbrains\ИТ-инженер Передовые технологии\4. Data Engineer\1. Погружение в Python\Python (семинары)\Python ДЗ\Homework_8\File_manager\__pycache__,1695,file,__pycache__

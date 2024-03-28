@@ -1,0 +1,143 @@
+{
+  "F:\\\u0416\u0435\u043d\u044f\\+\u0423\u0447\u0451\u0431\u0430 Geekbrains\\\u0418\u0422-\u0438\u043d\u0436\u0435\u043d\u0435\u0440 \u041f\u0435\u0440\u0435\u0434\u043e\u0432\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438\\4. Data Engineer\\1. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python\\Python (\u0441\u0435\u043c\u0438\u043d\u0430\u0440\u044b)\\Python \u0414\u0417\\Homework_8": {
+    "File_manager": {
+      "object_size": 31383,
+      "object_type": "directory",
+      "parant_directory": "Python \u0414\u0417"
+    },
+    "data.csv": {
+      "object_size": 32,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "data.json": {
+      "object_size": 150,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "data.txt": {
+      "object_size": 129,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "data1.json": {
+      "object_size": 22,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "data2.json": {
+      "object_size": 109,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "main.py": {
+      "object_size": 1868,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "result.csv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "result.json": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "result.pickle": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "result1.csv": {
+      "object_size": 766,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "result1.json": {
+      "object_size": 1808,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "result1.pickle": {
+      "object_size": 810,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    },
+    "task_homework.py": {
+      "object_size": 4782,
+      "object_type": "file",
+      "parant_directory": "Homework_8"
+    }
+  },
+  "F:\\\u0416\u0435\u043d\u044f\\+\u0423\u0447\u0451\u0431\u0430 Geekbrains\\\u0418\u0422-\u0438\u043d\u0436\u0435\u043d\u0435\u0440 \u041f\u0435\u0440\u0435\u0434\u043e\u0432\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438\\4. Data Engineer\\1. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python\\Python (\u0441\u0435\u043c\u0438\u043d\u0430\u0440\u044b)\\Python \u0414\u0417\\Homework_8\\File_manager": {
+    "__pycache__": {
+      "object_size": 18815,
+      "object_type": "directory",
+      "parant_directory": "Homework_8"
+    },
+    "create_file_json.py": {
+      "object_size": 4562,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "create_file_txt.py": {
+      "object_size": 549,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "csv_to_json.py": {
+      "object_size": 1675,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "directory_reference.py": {
+      "object_size": 3424,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "json_to_csv.py": {
+      "object_size": 1447,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "txt_to_json.py": {
+      "object_size": 911,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    }
+  },
+  "F:\\\u0416\u0435\u043d\u044f\\+\u0423\u0447\u0451\u0431\u0430 Geekbrains\\\u0418\u0422-\u0438\u043d\u0436\u0435\u043d\u0435\u0440 \u041f\u0435\u0440\u0435\u0434\u043e\u0432\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438\\4. Data Engineer\\1. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python\\Python (\u0441\u0435\u043c\u0438\u043d\u0430\u0440\u044b)\\Python \u0414\u0417\\Homework_8\\File_manager\\__pycache__": {
+    "create_file_json.cpython-311.pyc": {
+      "object_size": 4418,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "create_file_txt.cpython-311.pyc": {
+      "object_size": 1562,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "csv_to_json.cpython-311.pyc": {
+      "object_size": 3102,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "directory_reference.cpython-311.pyc": {
+      "object_size": 5524,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "json_to_csv.cpython-311.pyc": {
+      "object_size": 2514,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "txt_to_json.cpython-311.pyc": {
+      "object_size": 1695,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  }
+}
